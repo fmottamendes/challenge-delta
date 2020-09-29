@@ -1,5 +1,3 @@
-# <img src="https://avatars1.githubusercontent.com/u/7063040?v=4&s=200.jpg" alt="HU" width="24" /> Desafio Delta
-
 **Obs.: Os scripts desativam o SElinux e Iptables, não utilize em produção**
 
 Desafio executado utilizando Docker, Docker Compose e Kubernetes(Minikube):
@@ -28,8 +26,4 @@ Desafio executado utilizando Docker, Docker Compose e Kubernetes(Minikube):
 
 <p align="center">
   <img src="img/kubernetes.png" alt="Ambiente Minikube" />
-</p>
-
-<p align="center">
-  <img src="ca.jpg" alt="Challange accepted" />
 </p>
